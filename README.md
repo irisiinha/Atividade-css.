@@ -1,1 +1,11 @@
 # Atividade-css.
+1)letra C
+2)letra C
+3)letra D
+4)letra B
+5)letra C
+6)letra D
+7)letra C
+8)letra D
+9)letra D
+10)letra C
